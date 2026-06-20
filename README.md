@@ -1,2 +1,4 @@
-# AWS-Hybrid-Cloud-Networking
-AWS hybrid cloud networking architectures, Direct Connect, Transit Gateway, VPN, Route 53, and enterprise connectivity designs.
+## Documents
+
+- AWS Transit Gateway Design
+- Direct Connect vs Site-to-Site VPN
